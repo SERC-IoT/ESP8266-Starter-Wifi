@@ -1,5 +1,9 @@
 # ESP8266 WiFi
 
+Code showing how to connect an ESP8266 to a WiFi access point.
+
+Code examples show how to use a configuration file for storing connection settings (SSID, passphrase), and how to generate a unique hostname for the device.
+
 <br>
 
 ## Files/Folders
