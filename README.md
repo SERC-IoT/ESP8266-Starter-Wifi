@@ -6,6 +6,7 @@
 
 | File/Folder | Description |
 |--- | --- |
+| [arduino/wifi-connect/wifi-connect.ino](arduino/wifi-connect/wifi-connect.ino) | Arduino sketch showing how to connecting to WiFi. |
 |  |  |
 
 <br>
