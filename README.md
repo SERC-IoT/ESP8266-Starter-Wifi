@@ -7,6 +7,7 @@
 | File/Folder | Description |
 |--- | --- |
 | [arduino/wifi-connect/wifi-connect.ino](arduino/wifi-connect/wifi-connect.ino) | Arduino sketch showing how to connecting to WiFi. |
+| [micropython/](micropython/) | Micropython scripts showing how to connect to WiFi. |
 |  |  |
 
 <br>
