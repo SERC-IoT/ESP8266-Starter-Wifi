@@ -11,7 +11,7 @@ void setup() {
     Serial.println("");
 
     // Create and assign a hostname to the device
-    // Hostname is generated as a prefix combined with the chid id code as a hexidecimal string
+    // Hostname is generated as a prefix combined with the chip id code as a hexidecimal string
     WiFi.hostname("ESP8266-" + String(ESP.getChipId(), HEX));
 
     // Connect to the WiFi network
